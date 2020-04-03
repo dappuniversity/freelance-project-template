@@ -1,0 +1,11 @@
+.pt-navbar {
+  line-height: 24px;
+}
+
+#brand-name {
+  font-size: 18px;
+}
+
+#brand-name > strong {
+  color: rgb(254, 95, 44);
+}

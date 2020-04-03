@@ -1,0 +1,15 @@
+#LoadingModal {
+  height: 150px;
+  width: 300px;
+  top: calc(50% - 75px);
+  left: calc(50% - 150px);
+
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#LoadingModal > div {
+  display: flex;
+}
