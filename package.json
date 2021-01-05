@@ -10,7 +10,7 @@
   "dependencies": {
     "@blueprintjs/core": "^1.35.0",
     "@blueprintjs/labs": "^0.14.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "d3-format": "^1.2.2",
     "lodash": "^4.17.4",
     "moment": "^2.23.0",
